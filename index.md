@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Hello, we are RedKapSkids or RKS, you've probably seen us before 
 
-You can use the [editor on GitHub](https://github.com/RedKapSkids/Netsupport/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are script kiddies so really we aren't hackers. But we will free you from netsupport. 
 
 ### Markdown
 
